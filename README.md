@@ -69,3 +69,5 @@ Some items with **low ratings and high returns** had unexpectedly **high stock l
 Certain item types (e.g., **frozen foods**) and specific outlet locations consistently **underperformed** in both **sales and ratings**, suggesting a need to **reassess product offerings and marketing strategies** in those areas.
 
 ---
+<img width="1484" height="846" alt="BlinkIt Report" src="https://github.com/user-attachments/assets/b6927c7f-804c-4db3-8a40-4c093c7a712f" />
+
